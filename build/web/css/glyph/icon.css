@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 16, 2016, 1:37:58 PM
+    Author     : Uditha Jay
+*/
+
+.sidebar .glyph, .user-menu .glyph {
+	height: 16px;
+	width: 16px;
+	margin: 0 10px 0 0;
+	stroke-width: 3px;
+}
+
+.user-menu .glyph {
+	stroke-width: 4px;
+}
+
+.breadcrumb .glyph {
+	height: 14px;
+	width: 14px;
+	margin: -2px 0 0 0;
+	stroke-width: 4px;
+}
+
+.alert .glyph, .panel-heading .glyph {
+	width: 26px;
+	height: 26px;
+	margin: 0 10px 0 0;
+	stroke-width: 2px;
+}
+
+.panel-widget .glyph {
+	stroke-width: 2px;
+}
+
+.todo-list .glyph {
+	width: 14px;
+	height: 14px;
+	stroke-width: 4px;
+	color: #999;
+}
+
+.glyph.table {
+	background: none;
+	border: none;
+}
+
+
+.bg-primary .glyphicon-remove { color: #5f6468;}
+.bg-primary .glyphicon-remove:hover { color: #ef4040;}
+
+.no-padding {
+	padding: 0; margin: 0;
+}
+
+.glyphicon-xl {
+	font-size: 6em;
+}
+
+.glyphicon-l {
+	font-size: 3em;
+}
+
+.glyphicon-m {
+	font-size: 1.5em;
+}
+
+.glyphicon-s {
+	font-size: 0.75em;
+}
+
+.glyphicon-download-alt:before{content:"\e025"}.glyphicon-download:before{content:"\e026"}

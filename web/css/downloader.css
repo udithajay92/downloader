@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 9, 2016, 8:57:22 AM
+    Author     : Uditha Jay
+*/
+
+/*html *
+{
+   font-size: small;
+
+}*/
+body{
+    font-size:small;
+}
+
+.table-text-align-centre{
+    text-align: center;
+}
+
+.table-text-align-right{
+    text-align: right;
+}
+
+.col-centered {
+  float: none;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+text-centered{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.oveflow-scroll{
+    height: 1000px;
+    overflow: scroll;
+}
